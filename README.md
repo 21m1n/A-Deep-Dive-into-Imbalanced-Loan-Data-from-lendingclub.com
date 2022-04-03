@@ -1,6 +1,7 @@
 # A-Deep-Dive-into-Imbalanced-Loan-Data-from-lendingclub.com
 
-The dataset contains 9578 observations and 12 features. 
+Dataset Source: [https://www.kaggle.com/datasets/itssuru/loan-data](https://www.kaggle.com/datasets/itssuru/loan-data)
+The dataset contains 9578 observations and 12 features.
 
 ## Train test split 
 
