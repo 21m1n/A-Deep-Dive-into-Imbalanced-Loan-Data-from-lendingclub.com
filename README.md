@@ -26,6 +26,13 @@ The dataset is splited into 80% training set (containing validation set) and 20%
 
 ## Feature Engineering 
 
+Categorical features:
+- One-Hot transformation
+
+Numerical features:
+- Feature transformation (log transformation)
+- Feature scaling (standardization)
+
 ![](img/fe.png)
 
 ## Feature Selection 
