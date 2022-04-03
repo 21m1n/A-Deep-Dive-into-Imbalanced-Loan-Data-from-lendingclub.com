@@ -16,13 +16,7 @@ The dataset is splited into 80% training set (containing validation set) and 20%
 	- skewness 
 	- different scale 
 
-![](img/num\_distribution.png)
-
 - Categorical Feature 
-![](img/cat\_distribution.png)
-![](img/cat\_distribution2.png)
-
-![](img/num\_tar.png)
 
 ## Feature Engineering 
 
@@ -32,8 +26,6 @@ Categorical features:
 Numerical features:
 - Feature transformation (log transformation)
 - Feature scaling (standardization)
-
-![](img/fe.png)
 
 ## Feature Selection 
 
@@ -50,7 +42,7 @@ Numerical features:
 
 ## Models 
 
-- Dummy classifier ()
+- Dummy classifier
 - Logistic Regression 
 - Weighted Logistic Regression 
 - Decision Trees
