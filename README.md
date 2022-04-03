@@ -12,7 +12,7 @@ The dataset is splited into 80% training set (containing validation set) and 20%
 
  Almost all features are skewed, 
 
-![](img/num\_distributions.png) 
+![](img/num\_distribution.png) 
 
 - Categorical Features 
 
